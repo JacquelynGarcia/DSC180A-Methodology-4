@@ -17,7 +17,7 @@ A potential investigation that I would like to pursue for Quarter 2 is building 
 ---
 
 ## **What is a potential change you’d make to the approach taken in your current Quarter 1 Project?**
-A potential change I would make to my Quarter 1 approach is dedicating more time early on to reading research and information on existing methodologies before committing to a final pipeline design. Since I plan to build an agentic system for detecting missing context and I have never built an agent before I believe that having a stronger theoretical foundation will make a huge difference. If I had adopted this mindset earlier in Quarter 1, I would have been more intentional about understanding the prior work. I plan to proactively read research so that I can begin Quarter 2 a stronger foundation.
+A potential change I would make to my Quarter 1 approach is dedicating more time early on to reading research and information on existing methodologies before committing to a final pipeline design. Since I plan to build an agentic system for detecting missing context and I have never built an agent before I believe that having a stronger theoretical foundation will make a huge difference. If I had adopted this mindset earlier in Quarter 1, I would have been more intentional about understanding the prior work. I plan to proactively read research so that I can begin Quarter 2 with a stronger foundation.
 
 ---
 

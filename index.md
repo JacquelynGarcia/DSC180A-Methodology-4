@@ -1,5 +1,3 @@
-# DSC 180A – Methodology Assignment 4
-
 **Name:** Jacquelyn Garcia  
 **Email:** jag053@ucsd.edu  
 
